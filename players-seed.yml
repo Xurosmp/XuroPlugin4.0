@@ -1,20 +1,309 @@
 players:
-  2ec21cb8-5617-449e-a007-63ba8a7ac277:
-    name: q5xzn
+  0ec37c43-2a9c-4a85-8194-2e382159a96d:
+    name: Lucas08944
+    money: 1000.0
+    crystals: 0
+    gems: 0
+    kills: 0
+    deaths: 1
+    playtime: 1080
+    lastDaily: 0
+    dailyStreak: 0
+    scoreboardOff: false
+    keys:
+      admincrate: 2
+  7382c330-32a2-40f7-9677-030d2c973a48:
+    name: sausia787
+    money: 26000.0
+    crystals: 25
+    gems: 0
+    kills: 0
+    deaths: 1
+    playtime: 720
+    lastDaily: 0
+    dailyStreak: 0
+    scoreboardOff: false
+  954c102f-4e22-4058-8a76-87c90ac78723:
+    name: MarryLou2010
     money: 1000.0
     crystals: 0
     gems: 0
     kills: 0
     deaths: 0
-    playtime: 540
+    playtime: 60
     lastDaily: 0
     dailyStreak: 0
     scoreboardOff: false
+  2ec21cb8-5617-449e-a007-63ba8a7ac277:
+    name: q5xzn
+    money: 1500.0
+    crystals: 2
+    gems: 0
+    kills: 0
+    deaths: 0
+    playtime: 1140
+    lastDaily: 1793535190886
+    dailyStreak: 1
+    scoreboardOff: false
+    rank: media
     keys:
-      common: 1
+      admincrate: 1
     kits:
       starter: 1793374120090
       daily: 1793374118600
+      media: 1793637697165
+      vip-gear: 1793637700605
+  b2174ab2-322b-469f-ba14-5e67bc86ee63:
+    name: freakygundislayr
+    money: 1000.0
+    crystals: 0
+    gems: 0
+    kills: 0
+    deaths: 0
+    playtime: 0
+    lastDaily: 0
+    dailyStreak: 0
+    scoreboardOff: false
+  002ed822-3f85-4cf2-9440-2b1cdb3c91d3:
+    name: ItzRealNiso
+    money: 1.5312309E7
+    crystals: 2307
+    gems: 100
+    kills: 10
+    deaths: 0
+    playtime: 23940
+    lastDaily: 1793897449828
+    dailyStreak: 1
+    scoreboardOff: false
+    rank: vip
+    keys:
+      admincrate: 25
+    homes:
+      trial: world,304.7241104846386,-30.0,-187.7515749438502,158.05994,18.218279
+      gamer: world,1111.0075601309425,76.0,3002.7291989484456,86.54291,10.103403
+      villager: world,3460.3016983467624,25.5625,-8925.699999988079,-8.760803,21.628235
+    kits:
+      elite: 1793822405258
+      premium: 1793822404460
+      starter: 1793822310510
+      mvp: 1793822486430
+      daily: 1793822309635
+      vip: 1793822487302
+      vip-gear: 1793822397781
+      mvp-gear: 1793822544666
+      weekly: 1793822306971
+      ultra-gear: 1793822402587
+      ultra: 1793822486830
+  ebc0b322-7abf-4022-8b97-9d251a8f908a:
+    name: fuchsmasterchen
+    money: 568413.0
+    crystals: 82
+    gems: 0
+    kills: 2
+    deaths: 2
+    playtime: 2700
+    lastDaily: 0
+    dailyStreak: 0
+    scoreboardOff: false
+    rank: vip
+    keys:
+      admincrate: 2
+    homes:
+      '1': world,508.41569692548114,65.0,-2597.286847229439,52.623837,70.807594
+      '2': world,530.5398880931572,63.0,-2602.305455886143,64.69759,11.60617
+    kits:
+      elite: 1793982078540
+      premium: 1793982078224
+      mvp: 1793982078840
+      vip: 1793982038912
+      mvp-gear: 1793890939380
+      vip-gear: 1793890942380
+      ultra-gear: 1793891481734
+      weekly: 1793982077190
+      ultra: 1793982079824
+  dbd751f8-fc6d-42f7-b1d3-b3562e193763:
+    name: Gamerprokayosm
+    money: 3.4428885E7
+    crystals: 26
+    gems: 50
+    kills: 28
+    deaths: 18
+    playtime: 147900
+    lastDaily: 1793800071261
+    dailyStreak: 1
+    scoreboardOff: false
+    rank: media
+    keys:
+      adminabuse: 27
+      admincrate: 110
+    homes:
+      stronghold: world,1517.414508665773,-22.0,1371.8936888129756,159.07532,16.799694
+      villi2: world,-2983.699999988079,63.0,-770.3000000119209,27.943787,50.937664
+      uff: Afk-Spawn,32.69999998807907,141.0,6.699999988079071,91.636444,20.099962
+      end: world_the_end,14803.057722977745,51.0,9580.794554939084,-4.36792,39.44985
+      vlackstone: world_nether,34.78639018834522,44.0,-372.5245400341047,-81.5507,64.34975
+      theend: world_the_end,1087.94692043209,60.0,-15337.494219837663,149.91046,9.449562
+      blackstone: world_nether,-3650.52265400525,68.0,-1443.3025984540868,71.88837,14.550312
+      village: world,4423.699999988079,87.0,-7405.677591860867,-136.55365,39.6002
+      newvillagerfarm: world,4493.142435695654,-13.0,-11133.697490039294,33.650757,10.349985
+      wither: world_nether,1040.5414693146433,5.0,1305.200437869968,-143.62547,14.969059
+      stash: world_the_end,1061.852430910963,51.0,-15325.388706046206,12.659708,12.90003
+      beacon: world_the_end,-1.1709671562848971,2.0,0.699999988079071,-86.24948,20.859846
+    kits:
+      elite: 1793538553573
+      premium: 1793538556713
+      starter: 1793398907178
+      mvp: 1793538545095
+      daily: 1793538568010
+      media: 1794137987447
+      vip: 1793904353194
+      vip-gear: 1793398841178
+      mvp-gear: 1793398855365
+      ultra-gear: 1793398846186
+      weekly: 1793398906803
+      ultra: 1793538533661
+  5eda2f00-8f47-49ca-b86f-838beef3830d:
+    name: EinfxchFred
+    money: 11000.0
+    crystals: 0
+    gems: 0
+    kills: 0
+    deaths: 0
+    playtime: 1020
+    lastDaily: 0
+    dailyStreak: 0
+    scoreboardOff: false
+  a3563912-9f77-454c-8b51-8f868ed4d531:
+    name: EinfachLukeV1
+    money: 12600.0
+    crystals: 76
+    gems: 0
+    kills: 0
+    deaths: 0
+    playtime: 2340
+    lastDaily: 1793810353111
+    dailyStreak: 2
+    scoreboardOff: false
+    rank: mod
+  2601c904-a040-42d9-90f8-b2b2524ab551:
+    name: KryX__
+    money: 207095.0
+    crystals: 211
+    gems: 0
+    kills: 7
+    deaths: 4
+    playtime: 4200
+    lastDaily: 1793726630631
+    dailyStreak: 2
+    scoreboardOff: false
+    homes:
+      home: world_the_end,1041.5832152115854,33.0,-199.49292847174468,-1.1462065,24.299978
+  f897aa5e-1e98-4713-b7f7-828f97b85d0d:
+    name: x24q
+    money: 3384909.0
+    crystals: 602
+    gems: 100
+    kills: 0
+    deaths: 5
+    playtime: 4500
+    lastDaily: 1793905504777
+    dailyStreak: 1
+    scoreboardOff: false
+    keys:
+      admincrate: 3
+    homes:
+      home: world,1106.456063075026,76.0,3008.6593557779634,110.17954,6.7687984
+  12157f91-589e-4813-b344-e69608aacaa5:
+    name: Reezy_ZL
+    money: 700410.0
+    crystals: 98
+    gems: 0
+    kills: 0
+    deaths: 3
+    playtime: 3000
+    lastDaily: 1793554963120
+    dailyStreak: 1
+    scoreboardOff: false
+    kits:
+      starter: 1793554022046
+      daily: 1793554052231
+      weekly: 1793554053984
+  6331fc08-63db-419c-a778-0616a735c830:
+    name: PaulConnect
+    money: 2851000.0
+    crystals: 75
+    gems: 0
+    kills: 0
+    deaths: 1
+    playtime: 600
+    lastDaily: 0
+    dailyStreak: 0
+    scoreboardOff: false
+  e322fa35-ff6b-4edc-a957-064ee7d097b3:
+    name: Oscar_IG
+    money: 1000.0
+    crystals: 0
+    gems: 0
+    kills: 0
+    deaths: 0
+    playtime: 60
+    lastDaily: 0
+    dailyStreak: 0
+    scoreboardOff: false
+  5976ed36-c5c8-4318-bfb5-a55b73a6ae86:
+    name: Bongo9
+    money: 1000.0
+    crystals: 0
+    gems: 0
+    kills: 0
+    deaths: 0
+    playtime: 60
+    lastDaily: 0
+    dailyStreak: 0
+    scoreboardOff: false
+  4ac3069b-1055-4104-a56d-92272df58d69:
+    name: Nazar976
+    money: 6405715.0
+    crystals: 699
+    gems: 150
+    kills: 0
+    deaths: 22
+    playtime: 50940
+    lastDaily: 1793478808084
+    dailyStreak: 2
+    scoreboardOff: false
+    rank: vip
+    homes:
+      love: world,-801.0788872633345,93.0,2770.2097441858496,143.09932,12.449954
+      base: world,-1049.8423056849974,78.0,2576.9912561788346,-85.70792,36.749973
+    kits:
+      vip-gear: 1793548612027
+  86dc8555-c7a7-4b06-bd76-653e37082389:
+    name: Marvex123
+    money: 6228235.0
+    crystals: 1318
+    gems: 0
+    kills: 6
+    deaths: 5
+    playtime: 69420
+    lastDaily: 1794071975981
+    dailyStreak: 2
+    scoreboardOff: false
+    keys:
+      admincrate: 7
+    homes:
+      home: world,2827.4173299942186,-8.0,-1167.1823946303846,173.37634,23.052113
+  bbb0d165-acbd-4331-9129-1e8c60650f7b:
+    name: KaterLeon1212
+    money: 2195.0
+    crystals: 1
+    gems: 0
+    kills: 0
+    deaths: 0
+    playtime: 420
+    lastDaily: 0
+    dailyStreak: 0
+    scoreboardOff: false
   9c929067-374d-4538-a93b-0786566bc773:
     name: ShadowKn8
     money: 1580.0
@@ -31,6 +320,17 @@ players:
     kits:
       starter: 1793353334797
       daily: 1793353333899
+  fb4f92bc-55f6-411c-ac68-38f42787a1a7:
+    name: L3itungswasser
+    money: 1000.0
+    crystals: 0
+    gems: 0
+    kills: 0
+    deaths: 0
+    playtime: 60
+    lastDaily: 0
+    dailyStreak: 0
+    scoreboardOff: false
   5e9e0798-c588-4fd7-8622-cc357cdd2934:
     name: zGurkez
     money: 2000.0
@@ -42,6 +342,81 @@ players:
     lastDaily: 0
     dailyStreak: 0
     scoreboardOff: false
+  1a365b77-2768-4995-a692-1627c7fa3a54:
+    name: STIP3_SWRD
+    money: 4.3533602E7
+    crystals: 21573
+    gems: 700
+    kills: 4
+    deaths: 15
+    playtime: 90120
+    lastDaily: 1793552766357
+    dailyStreak: 1
+    scoreboardOff: false
+    rank: vip
+    keys:
+      admincrate: 4
+    homes:
+      home: world,2034.2075403231886,78.0,-433.62799721388285,132.18651,27.918661
+      new: world,348.44511356498913,93.0,331.3709887268482,5.284471,22.768005
+      manschion: world,348.44511356498913,93.0,331.3709887268482,30.784473,21.56801
+      suger: world,2827.982697261853,-8.0,-1167.0654035798477,34.64079,52.649582
+      gamer: world,-3038.7731752901555,-58.0,-3365.306463435224,43.499054,20.549612
+      trading: world,1112.3305514645833,76.0,3008.436741411519,-161.32031,27.468737
+      end: world_the_end,-8580.601613301216,58.0,45374.940002748204,-0.35595703,57.30002
+      retten: world_the_end,-440.2246746426178,68.0,-292.4717006058408,80.62362,60.749714
+      trading2: world,-307.61829380962297,54.0,1368.300000011921,73.77661,21.080927
+      durchbruch: world,-4720.389432739941,73.0,103.30000001192093,-10.2022295,30.670595
+      sand: world,2034.2075403231886,78.0,-433.62799721388285,132.18651,27.918661
+    kits:
+      elite: 1793553539123
+      premium: 1793553537757
+      starter: 1793633362705
+      mvp: 1794129342005
+      daily: 1793633357142
+      vip: 1794129340552
+      vip-gear: 1794163061895
+      mvp-gear: 1793553525073
+      weekly: 1793553509149
+      ultra-gear: 1793553528607
+      ultra: 1794129341404
+  90a39076-52d3-48ff-ac35-0611f0ea1bd0:
+    name: TrippleToasted
+    money: 694745.0
+    crystals: 516
+    gems: 0
+    kills: 7
+    deaths: 3
+    playtime: 6960
+    lastDaily: 1793713746991
+    dailyStreak: 1
+    scoreboardOff: false
+    homes:
+      sd: world_the_end,1039.5994283495895,33.0,-227.775188488559,97.8294,6.608801
+    kits:
+      starter: 1793726303736
+      daily: 1793726308791
+      weekly: 1793726310147
+  55d2f123-943f-44dc-9b72-8eaf807ee3d6:
+    name: 4vrza
+    money: 4520988.0
+    crystals: 1952
+    gems: 0
+    kills: 0
+    deaths: 16
+    playtime: 4680
+    lastDaily: 1793907092239
+    dailyStreak: 1
+    scoreboardOff: false
+    keys:
+      admincrate: 3
+    homes:
+      '67': world,1118.044296267638,74.0,3015.7099717463443,112.87942,15.168739
+      '68': world,1107.8286443784702,76.0,3005.643771928223,-24.070587,9.618714
+    kits:
+      starter: 1793908162528
+      daily: 1793908370267
+      weekly: 1793907846161
   2d0e5afa-d8f4-4e1a-bf70-5b0f8d492f05:
     name: Perplexitix
     money: 1000.0
@@ -53,134 +428,163 @@ players:
     lastDaily: 0
     dailyStreak: 0
     scoreboardOff: false
-  dbd751f8-fc6d-42f7-b1d3-b3562e193763:
-    name: Gamerprokayosm
-    money: 9719024.0
-    crystals: 18785
-    gems: 0
-    kills: 4
-    deaths: 4
-    playtime: 25560
-    lastDaily: 1793367569295
-    dailyStreak: 1
-    scoreboardOff: false
-    rank: media
-    keys:
-      adminabuse: 27
-    homes:
-      stronghold: world,1517.414508665773,-22.0,1371.8936888129756,159.07532,16.799694
-      trial: world,-2712.6215397676838,-32.5,-2076.055716794626,-174.49808,57.6
-      villi: world,1688.6125254838055,71.0,-277.711868799074,81.39514,51.29981
-      villi2: world,-2983.699999988079,63.0,-770.3000000119209,27.943787,50.937664
-    kits:
-      elite: 1793398901316
-      premium: 1793398902574
-      starter: 1793398907178
-      mvp: 1793398900120
-      daily: 1793398906982
-      vip: 1793398861174
-      vip-gear: 1793398841178
-      mvp-gear: 1793398855365
-      ultra-gear: 1793398846186
-      weekly: 1793398906803
-      ultra: 1793398898501
-  5eda2f00-8f47-49ca-b86f-838beef3830d:
-    name: EinfxchFred
+  d05728fb-df32-4f60-9d82-dbd1acea52e9:
+    name: Martin_8106
     money: 1000.0
     crystals: 0
     gems: 0
     kills: 0
     deaths: 0
-    playtime: 120
+    playtime: 60
     lastDaily: 0
     dailyStreak: 0
     scoreboardOff: false
-  a3563912-9f77-454c-8b51-8f868ed4d531:
-    name: EinfachLukeV1
+  3ab1dbea-2389-43e2-ab9a-4df65412a661:
+    name: Lasido
     money: 1500.0
     crystals: 0
     gems: 0
     kills: 0
     deaths: 0
-    playtime: 1500
-    lastDaily: 1793378621043
+    playtime: 0
+    lastDaily: 1793459234681
     dailyStreak: 1
     scoreboardOff: false
-    keys:
-      common: 1
   ce158427-17e1-489b-8668-918ec5df6c00:
-    name: Lilabell787
-    money: 5700.0
-    crystals: 8682
+    name: Cut3Lover
+    money: 3.0471819E7
+    crystals: 79920
     gems: 0
-    kills: 0
-    deaths: 1
-    playtime: 8700
+    kills: 1
+    deaths: 47
+    playtime: 151140
     lastDaily: 0
     dailyStreak: 0
     scoreboardOff: false
-    rank: admin
+    rank: sradmin
     keys:
       common: 2
+      admincrate: 308
+    homes:
+      home: world_the_end,1040.2436289925315,33.0,-198.30209858761515,-167.49658,65.09995
+      end: world_the_end,1040.6436571764937,33.0,-198.35524146941543,177.20337,58.799988
+      overworld: world,4356.789922220089,72.0,-711.5960914105738,84.45029,61.19998
+      nether: world,735.4806925603042,-53.0,-3481.631737812287,-64.01263,34.46928
+    kits:
+      staff: 1794095593450
+      staff-supplies: 1793712915219
   494d9528-093d-46cd-8c4e-aa66ec42608c:
     name: FakeNitronik
-    money: 1.2141664E7
-    crystals: 3228
-    gems: 0
-    kills: 0
-    deaths: 28
-    playtime: 27060
+    money: 1.7288864E7
+    crystals: 571
+    gems: 50
+    kills: 1
+    deaths: 30
+    playtime: 36480
     lastDaily: 1793345120647
     dailyStreak: 1
     scoreboardOff: false
     rank: mvp
     keys:
-      common: 5
+      admincrate: 3
     kits:
-      elite: 1793347017201
-      premium: 1793347017813
+      elite: 1793446592850
+      premium: 1793446593390
       starter: 1793347019141
-      mvp: 1793347016653
-      daily: 1793347018241
+      mvp: 1793446586525
+      daily: 1793446597175
+      mvp-gear: 1793446134540
+      weekly: 1793446596050
   82b427ad-55e2-4d00-b774-59eb0e3483e3:
     name: jojo7534
-    money: 1500.0
+    money: 26500.0
     crystals: 0
     gems: 0
     kills: 0
-    deaths: 0
-    playtime: 180
+    deaths: 1
+    playtime: 1080
     lastDaily: 1793365063694
     dailyStreak: 1
     scoreboardOff: false
+    kits:
+      starter: 1793537049458
+      daily: 1793537047998
+      weekly: 1793537046114
+  99a50691-3f3d-4915-b321-9934868bc076:
+    name: KIngM101268
+    money: 1271360.0
+    crystals: 732
+    gems: 0
+    kills: 0
+    deaths: 2
+    playtime: 3660
+    lastDaily: 1793649493852
+    dailyStreak: 2
+    scoreboardOff: false
+    keys:
+      admincrate: 3
+  91a9b038-0f20-4100-81ac-79b75fd26bcd:
+    name: KILLTILL3
+    money: 965.7
+    crystals: 75
+    gems: 0
+    kills: 0
+    deaths: 28
+    playtime: 34080
+    lastDaily: 1793480680715
+    dailyStreak: 1
+    scoreboardOff: false
+    keys:
+      admincrate: 58
+    homes:
+      baiss: world,3065.558384411258,-36.0,-4052.300000011921,-37.19896,15.899975
+      villig: world,2427.9216494130433,85.0,-3206.720547338669,15.5112915,35.549995
+    kits:
+      starter: 1793707155806
+      daily: 1793965275115
+      weekly: 1793707170494
+  80d2ea74-b5af-41a9-8ad1-cb64ebf6c216:
+    name: TerraSDS
+    money: 26000.0
+    crystals: 75
+    gems: 0
+    kills: 0
+    deaths: 0
+    playtime: 1500
+    lastDaily: 0
+    dailyStreak: 0
+    scoreboardOff: false
+    rank: media
   ffe40a2d-7a82-4618-a802-5787e003012d:
     name: xCrazySquizyyYT
-    money: 5.7101185E7
-    crystals: 86909
-    gems: 3800
-    kills: 21
-    deaths: 8
-    playtime: 71820
-    lastDaily: 1793336488416
+    money: 1.0999936745E8
+    crystals: 180003
+    gems: 100
+    kills: 57
+    deaths: 16
+    playtime: 187500
+    lastDaily: 1794161583510
     dailyStreak: 1
     scoreboardOff: false
     rank: owner
     keys:
-      special: 2
       adminabuse: 1
-      common: 4
-      mythic: 1
-      legendary: 1
-      rare: 2
-      epic: 1
+      admincrate: 4
     homes:
       stash: world,2211.6191699325504,-20.74479775889327,888.5891364721425,-104.69821,19.349981
       aa: world,2.4361519987852014,91.0,1.5705604304345424,94.802,87.3
       grabgame: world,-562.8768725848497,95.95965185207417,4469.52476836078,-85.7932,17.700005
       endcity: world_the_end,-644.664421753902,57.0,-1084.7872944158519,42.14917,18.150026
+      base: world,509.7262675629401,-17.0,4477.545844971884,88.65234,0.8999856
+      aew: world,2546.0949030726956,69.0,-12.604061157193028,94.04004,9.150196
+      sugar: world,425.3009249293296,-40.0,4437.698052905794,88.94141,64.65011
+      villager: world,361.82482346970016,-46.0,4409.187092412468,-177.4801,2.851612
+      wuste: world,2230.5708384370823,72.0,-298.83499511055004,-20.444305,2.999357
     kits:
-      staff: 1793398779212
-      media: 1793398939445
+      staff: 1793979467087
+      media: 1793889191851
+      vip-gear: 1793538810749
+      ultra-gear: 1793890273928
   cd150ee8-228e-4fc8-882b-3dc597a310ce:
     name: melle1234321
     money: 1541567.5
@@ -202,51 +606,86 @@ players:
     kits:
       starter: 1793374178534
       daily: 1793374177490
-  e322fa35-ff6b-4edc-a957-064ee7d097b3:
-    name: Oscar_IG
-    money: 1000.0
-    crystals: 0
+  668edee3-6a2e-4e0f-a09a-90ca5e09a2ed:
+    name: Floinkstar
+    money: 1.9322879E7
+    crystals: 4605
     gems: 0
-    kills: 0
-    deaths: 0
-    playtime: 60
-    lastDaily: 0
-    dailyStreak: 0
+    kills: 11
+    deaths: 7
+    playtime: 63960
+    lastDaily: 1793720233081
+    dailyStreak: 1
     scoreboardOff: false
+    rank: vip
+    keys:
+      admincrate: 27
+    homes:
+      gear: world,736.617661370254,-53.0,-3482.446943261001,98.5874,-8.580709
+      spawner: world,623.8673332664406,-59.0,-1781.2267926556033,-9.526714,44.578487
+      newbase: world,-291.30453245833417,-56.0,1066.4858584906817,-107.60101,-14.710354
+      elytra6: world_the_end,7858.518601444956,61.0,-121824.98769095654,92.84668,23.972576
+      trial: world,299.8788091269658,-34.0,-257.6810098853394,85.67474,29.927263
+      niso: world,3455.300000011921,28.0,-8925.699999988079,-71.39011,36.918423
+      stip: world_the_end,-6838.2915045948075,60.0,-2969.7777484751887,-46.35919,17.156137
+      elytra7: world_the_end,7820.597147364342,70.0,-126692.65568846733,-167.99133,32.402004
+    kits:
+      mvp: 1794063031963
+      media: 1793902800835
+      vip: 1794063031759
+      vip-gear: 1793902803996
+      mvp-gear: 1794063031441
+      ultra-gear: 1793902994089
   1a59f535-d4c0-4f22-a15e-faade7d573d3:
     name: Rexfloris
-    money: 18590.0
-    crystals: 10
+    money: 4440.0
+    crystals: 14
     gems: 0
     kills: 0
-    deaths: 0
-    playtime: 1020
+    deaths: 3
+    playtime: 6480
     lastDaily: 0
     dailyStreak: 0
     scoreboardOff: false
     keys:
       common: 1
+      admincrate: 12
     homes:
-      home: world,584.278595247038,72.0,-4147.686351838753,134.42607,13.350003
-  5976ed36-c5c8-4318-bfb5-a55b73a6ae86:
-    name: Bongo9
-    money: 1000.0
+      home: world,881.1225143575266,-2.0,3010.6111695909026,170.40234,17.55048
+  43d08c3d-d420-41fa-8f61-cbc6e1a987c2:
+    name: progamerooo
+    money: 2951650.0
     crystals: 0
     gems: 0
     kills: 0
-    deaths: 0
-    playtime: 60
+    deaths: 1
+    playtime: 1320
     lastDaily: 0
     dailyStreak: 0
     scoreboardOff: false
-  4ac3069b-1055-4104-a56d-92272df58d69:
-    name: Nazar976
-    money: 1500.0
-    crystals: 0
+    keys:
+      admincrate: 2
+  d67284a0-268a-466a-9bad-b9cedb362adb:
+    name: ByMarq
+    money: 1002530.0
+    crystals: 1
     gems: 0
     kills: 0
-    deaths: 0
-    playtime: 420
-    lastDaily: 1793375565043
+    deaths: 2
+    playtime: 1800
+    lastDaily: 0
+    dailyStreak: 0
+    scoreboardOff: false
+    keys:
+      admincrate: 1
+  e07d585a-5024-45d8-a51a-332e223dc1ed:
+    name: MrCreeperHD
+    money: 5.8429069E7
+    crystals: 2135
+    gems: 0
+    kills: 0
+    deaths: 2
+    playtime: 12360
+    lastDaily: 1793810010212
     dailyStreak: 1
     scoreboardOff: false
